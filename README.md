@@ -1,1 +1,1 @@
-# capstone-project
+# Life Expectancy Prediction Capstone Project
